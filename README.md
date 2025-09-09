@@ -4,7 +4,7 @@
 
 <p align="center"><strong>Sala do Futuro Plataformas Hacks</strong></p>
 
-<p align="center">Neste repositório, você encontrará Scripts, Hacks e Websites que automatizam e facilitam tarefas das plataformas do Sala do Futuro, incluindo TarefasSP, Redação Paulista, SPeak, Khan Academy, Alura, Expansão Noturno, Matific, LeiaMe.</p>
+<p align="center">CMSP Hacks — O lugar onde você encontra scripts, hacks e websites para facilitar e automatizar as tarefas e plataformas do Sala do Futuro e do CMSP<br>( TarefaSP, RedaçãoSP, Expansão Noturno, Khan Academy, Matific, SPeak, LeiaSP, Alura, PreparaSP, Prova Paulista e Apostilas )</p>
 
 <br><br>
 
